@@ -24,7 +24,7 @@ GameTimer* GameTimer::create(TimerType value)
     return nullptr;
 }
 
-
+// add comments //
 bool GameTimer::init()
 {
 	visibleSize = HelperNode::getSize();
