@@ -5,7 +5,7 @@
 //  Created by Noor Fatima on 7/10/17.
 //
 //
-
+// Ye nahin sudhray gi :D
 #include "GameTimer.h"
 int GameTimer::timerTypeValue;
 
